@@ -12,7 +12,7 @@ const HeaderWrapper = styled.header`
   display: block;
   width: 100%;
   z-index: 1000;
-  background-color: #25303B;
+  background-color: #700001;
 `
 
 const HeaderNav = styled.nav`
@@ -26,7 +26,7 @@ const HeaderNav = styled.nav`
   justify-content: space-between;
   overflow-x: auto;
   overflow-y: hidden;
-  background-color: #25303B;
+  background-color: #700001;
 `
 
 const HeaderLinkGroup = styled.div`
@@ -85,7 +85,6 @@ class Header extends React.Component {
               </HeaderLink>
             ))}
           </HeaderLinkGroup>
-          <GithubLink />
         </HeaderNav>
       </HeaderWrapper>
     )

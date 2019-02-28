@@ -38,7 +38,7 @@ module.exports = {
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpg',
-  googleAnalyticsId: 'UA-131359385-1',
+  googleAnalyticsId: 'UA-59628908-2',
   background_color: '#ffffff',
   theme_color: '#ab2729',
   display: 'minimal-ui',

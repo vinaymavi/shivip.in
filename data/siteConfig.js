@@ -26,7 +26,7 @@ module.exports = {
       },
       duration: '7 PM',
       occupation: "Shaddi",
-      description: "The wedding is scheduled at <b>8/Mar</b> at  Shilpi Village KharKhari (Kharhoda) and the team will leave around 5 PM.</br><a style='text-align:center;display:block' target='_blank' href='https://goo.gl/maps/vrri2d5K9nP2'> <img  src='/images/map_icon.png'/></a>"
+      description: "The wedding is scheduled at <b>8/Mar</b> at  Shilpi Village KharKhari (Kharhoda) and the team will leave around 5 PM.</br><a style='text-align:center;display:block' target='_blank' href='https://maps.app.goo.gl/V7DcJ'> <img  src='/images/map_icon.png'/></a>"
     }
   ],
   social: {
